@@ -27,14 +27,4 @@ HTML: The standard markup language used for structuring content on the web, prov
 
 ### Getting Started
 
-1. Install dependencies
-
-```
-npm install
-```
-
-2. Run dev server
-
-```
-npm run dev
-```
+1. Open index.html file in a browser
