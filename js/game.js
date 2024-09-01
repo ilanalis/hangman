@@ -190,6 +190,9 @@ function keyAndVirtualKeyboardListenerWrapper(
     let key;
     let letter;
     if (event.type === "keydown") {
+      if (event.key.length && /[a-zA-Z]/.test(event.key)) {
+        alert("используйте буквы русского алфавита");
+      }
       if (event.key.length === 1 && /[а-яА-Я]/.test(event.key)) {
         letter = event.key.toUpperCase();
         const virtualKeysArray = Array.from(keyboard.childNodes);
