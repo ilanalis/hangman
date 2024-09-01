@@ -8,7 +8,7 @@ Hangman is a classic word game in which you must find the correct answer by gues
 
 - To practice DOM manipulation and JavaScript skills;
 - Gain experience with Vanilla JavaScript;
-- Gain Experience with CSS and UI Design;
+- Gain Experience with SCSS and UI Design;
 - Understand Event Handling and State Management;
 - To learn Error Handling and debugging;
 
