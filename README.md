@@ -4,7 +4,9 @@ This project is part of RS School's training program, where the task is to imple
 
 Hangman is a classic word game in which you must find the correct answer by guessing letters one at a time.
 
-deploy - https://ilanalis.github.io/hangman/
+### Deployment
+
+You can view the live project at https://ilanalis.github.io/hangman/
 
 ### Objectives
 
