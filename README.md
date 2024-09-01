@@ -11,6 +11,7 @@ Hangman is a classic word game in which you must find the correct answer by gues
 - Gain Experience with SCSS and UI Design;
 - Understand Event Handling and State Management;
 - To learn Error Handling and debugging;
+- Implement a responsive layout to ensure the game functions well across various screen sizes and devices.
 
 ### Stack
 
